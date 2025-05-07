@@ -33,6 +33,7 @@ ch.ivy.addon.portalkit.ui.jsf:
     showAbsencesInThePast: Display absences in the past
     substitutedUser: Substituted user
     taskForRole: 'Task for role: '
+    caseForRole: 'Case for role'
     till: Until
   AbsenceManagement:
     Messages:
