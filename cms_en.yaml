@@ -34,6 +34,7 @@ ch.ivy.addon.portalkit.ui.jsf:
     substitutedUser: Substituted user
     taskForRole: 'Task for role: '
     caseForRole: 'Case for role'
+    processForRole: 'Process for role'
     till: Until
   AbsenceManagement:
     Messages:
