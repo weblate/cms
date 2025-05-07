@@ -42,7 +42,7 @@ ch.ivy.addon.portalkit.ui.jsf:
     substitutedUser: Vertretener Benutzer
     taskForRole: 'Aufgabe für Rolle: '
     till: Bis
-    processForRole: Prozess für Rolle
+    processForRole: Prozess für die Rolle
   AbsenceManagement:
     Messages:
       addNewAbsence: Neue Abwesenheit ist für {0} hinzugefügt worden
